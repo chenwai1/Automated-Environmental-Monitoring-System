@@ -23,15 +23,15 @@
 | Component | Function / Role |
 | :--- | :--- |
 | $\color{#3498db}{\text{ESP32}}$ | Main IoT Microcontroller |
-| $\color{#e67e22}{\text{DHT11}}$ | Temperature & Humidity Sensor |
+| $\color{#e67e22}{\text{DHT11}}$ | Temperature and Humidity Sensor |
 | $\color{#f1c40f}{\text{LDR}}$ | Ambient Light Intensity Detection |
 | $\color{#2ecc71}{\text{LCD 1602}}$ | Real-time Local Status Display |
 | $\color{#9b59b6}{\text{Servo Motor}}$ | Automated Shading Mechanism Control |
-| $\color{#e74c3c}{\text{Relay \& Pump}}$ | Water Spraying & Irrigation Activation |
+| $\color{#e74c3c}{\text{Relay and Pump}}$ | Water Spraying and Irrigation Activation |
 
 ---
 
-## 📱 $\color{#1abc9c}{\text{Application \& IoT Connectivity}}$
+## 📱 $\color{#1abc9c}{\text{Application and IoT Connectivity}}$
 
 ```diff
 + Connected via Blynk IoT Platform
